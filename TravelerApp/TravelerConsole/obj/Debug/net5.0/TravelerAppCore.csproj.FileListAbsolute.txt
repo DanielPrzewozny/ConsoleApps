@@ -1,0 +1,5 @@
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerConsole\obj\Debug\net5.0\TravelerAppCore.csproj.AssemblyReference.cache
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerConsole\obj\Debug\net5.0\TravelerAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerConsole\obj\Debug\net5.0\TravelerAppCore.AssemblyInfoInputs.cache
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerConsole\obj\Debug\net5.0\TravelerAppCore.AssemblyInfo.cs
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerConsole\obj\Debug\net5.0\TravelerAppCore.csproj.CoreCompileInputs.cache

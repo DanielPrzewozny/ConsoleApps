@@ -1,0 +1,12 @@
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\bin\Debug\net7.0\TravelerAppCore.deps.json
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\bin\Debug\net7.0\TravelerAppCore.dll
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\bin\Debug\net7.0\TravelerAppCore.pdb
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.csproj.AssemblyReference.cache
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.AssemblyInfoInputs.cache
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.AssemblyInfo.cs
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.csproj.CoreCompileInputs.cache
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.dll
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\refint\TravelerAppCore.dll
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\TravelerAppCore.pdb
+C:\Users\9dani\OneDrive\Pulpit\TravelerApp\TravelerAppCore\obj\Debug\net7.0\ref\TravelerAppCore.dll
