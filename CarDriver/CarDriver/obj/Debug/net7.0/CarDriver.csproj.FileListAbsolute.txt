@@ -1,0 +1,15 @@
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\bin\Debug\net7.0\CarDriver.exe
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\bin\Debug\net7.0\CarDriver.deps.json
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\bin\Debug\net7.0\CarDriver.runtimeconfig.json
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\bin\Debug\net7.0\CarDriver.dll
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\bin\Debug\net7.0\CarDriver.pdb
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.csproj.AssemblyReference.cache
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.AssemblyInfoInputs.cache
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.AssemblyInfo.cs
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.csproj.CoreCompileInputs.cache
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.dll
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\refint\CarDriver.dll
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.pdb
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\CarDriver.genruntimeconfig.cache
+C:\Users\9dani\OneDrive\Pulpit\SimpleConsoleApps\CarDriver\CarDriver\obj\Debug\net7.0\ref\CarDriver.dll
